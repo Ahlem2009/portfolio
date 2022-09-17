@@ -7,4 +7,22 @@ body {
   background-color: lightblues;
 }
 
+.contact-item{
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
 
+}
+
+.contact-text{
+  margin-left: 10px;
+}
+
+.custom-icon{
+  margin-bottom: 20px;
+  color: gray;
+}
+
+.couleur{
+  color: gray;
+}
