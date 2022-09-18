@@ -10,7 +10,7 @@ function App() {
   return (
     <div >
       <BrowserRouter>
-      <h1> hello </h1>
+      <h1>  </h1>
     < Navbar /> 
     < div className='container mt-5'>
       <Route path="/contact" component={Contact}  />

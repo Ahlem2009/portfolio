@@ -26,3 +26,8 @@ body {
 .couleur{
   color: gray;
 }
+
+.avatar{
+  width: 200px;
+  border-radius: 50%;
+}

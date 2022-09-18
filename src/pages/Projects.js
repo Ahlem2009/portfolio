@@ -13,8 +13,8 @@ function Projects() {
   return (
     <div>
       {myProjects.map((item, index) => (
-        <div style={{padding: 10}}>
-          <div class="card carte" >
+        <div style={{padding: 10}} >
+          <div class="card" >
             <div class="card-body">
               <h5 class="card-title couleur">{item.title}</h5>
               
